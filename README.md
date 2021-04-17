@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End Web development
 - 🌱 I’m currently learning Reactjs, Git and Github (I have HTML, CSS, Bootstrap, Materialize, SASS, JavaScript, Jquery)
 - 💞️ I’m looking to collaborate on a web project with a team 
-- 📫 How to reach me : chenguitiham@gmail.com
+- 📫 How to reach me : chenguitiha@gmail.com
 
 <!---
 hamza-che/hamza-che is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
