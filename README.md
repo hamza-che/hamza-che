@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamza Chenguiti
 - 👀 I’m interested in Front-End Web development
 - 🌱 I’m currently learning Reactjs (I have HTML, CSS, Bootstrap, Materialize, SASS, JavaScript, Jquery)
-- 💞️ I’m looking to collaborate on a web projects with a team 
+- 💞️ I’m looking to collaborate on a web projects with a pro team 
 - 📫 How to reach me : chenguitiha@gmail.com
 
 <!---
