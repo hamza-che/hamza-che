@@ -1,6 +1,5 @@
 # Hello, I'm Hamza 👋
 ## Front-End Developer
-- 👋 Hi, I’m Hamza Chenguiti
 - 👀 I’m interested in Front-End development
 - 🌱 Reactjs, HTML, CSS, Bootstrap, Materialize, SCSS, JavaScript, Jquery
 - 💞️ I’m looking to collaborate on a web projects with a pro team 
