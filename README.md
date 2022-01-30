@@ -2,7 +2,7 @@
 ## Front-End Developer
 - 👀 I’m interested in Front-End development
 - 🌱 Reactjs, HTML, CSS, Bootstrap, Materialize, SCSS, JavaScript, Jquery
-- 💞️ I’m looking to collaborate on a web projects with a pro team 
+- 💞️ I’m looking to collaborate with others on Reactjs and JavaScript.
 - 📫 How to reach me : contact@hamza.codes
 
 <!---
