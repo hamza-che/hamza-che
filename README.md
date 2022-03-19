@@ -6,6 +6,7 @@
 - 📫 How to reach me : contact@hamza.codes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza-che)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-che)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 hamza-che/hamza-che is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
